@@ -1,6 +1,5 @@
 html {
 	background-color: black;
-
 }
 
 h1 {
@@ -9,10 +8,6 @@ h1 {
 	background-color: white;
 }
 
-.robots {
-
-
-}
 
 .head, 
 .left_arm, 
@@ -72,7 +67,6 @@ h1 {
 .lower_body { 
 	width: 200px; 
 	height: 200px;
-	/* This is another useful property. Hmm what do you think it does?*/
 	margin: 0 auto;
 
 } 
@@ -125,8 +119,6 @@ h1 {
 } 
 
 .left_eye { 
-	/* These properties are new and you haven't encountered
-	in this course. Check out CSS Tricks to see what it does! */
 	position: relative; 
 	top: 120px; 
 	left: 40px; 
